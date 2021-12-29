@@ -718,8 +718,13 @@ border: none;
 
     font-family: 'Bebas Neue', cursive;
     margin-top: 20px;
-    color: rgb(226, 240, 255);
-
+  }
+#list{
+  font-family: 'Lora', serif;
+  padding: 1em;
+  font-size: 2vh;
+  
+}
 
 }
 }
