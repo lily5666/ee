@@ -740,9 +740,9 @@ slideshow-container {
   padding: 80px;
   text-align: center;
   height: 200px;
-  width: 300px;
+  width: 400px;
   margin-left: -30px;
-  margin-top: -370px;
+  margin-top: -390px;
 
 }
 
@@ -766,7 +766,7 @@ slideshow-container {
 }
 .next {
   border-radius: 3px 0 0 3px;
-  margin-left: 410px;
+  margin-left: 310px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -810,6 +810,5 @@ q {font-style: italic;}
   margin-left: 90px;
   font-family: 'Bebas Neue', cursive;
   margin-top: -50px;
-}
 }
 }
